@@ -1,0 +1,12 @@
+a=1
+b=1.9
+c=True
+d='abc'
+e=[2,6.3,'ahtina']
+f=[1,6.8,'a']
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
